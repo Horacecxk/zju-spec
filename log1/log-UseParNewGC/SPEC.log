@@ -1,0 +1,766 @@
+
+SPECjvm2008 Base
+  Properties file:   none
+  Benchmarks:        startup.helloworld startup.compiler.compiler startup.compiler.sunflow startup.compress startup.crypto.aes startup.crypto.rsa startup.crypto.signverify startup.mpegaudio startup.scimark.fft startup.scimark.lu startup.scimark.monte_carlo startup.scimark.sor startup.scimark.sparse startup.serial startup.sunflow startup.xml.transform startup.xml.validation compiler.compiler compiler.sunflow compress crypto.aes crypto.rsa crypto.signverify derby mpegaudio scimark.fft.large scimark.lu.large scimark.sor.large scimark.sparse.large scimark.fft.small scimark.lu.small scimark.sor.small scimark.sparse.small scimark.monte_carlo serial sunflow xml.transform xml.validation
+
+  WARNING: Run will not be compliant.
+  Property specjvm.run.initial.check must be true for publication.
+  Property specjvm.run.checksum.validation must be true for publication.
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.helloworld
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:35 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:35 CST 2024
+Iteration 1 (1 operation) result: 394.74 ops/m
+
+Valid run!
+Score on startup.helloworld: 394.74 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.compiler.compiler
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:35 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:38 CST 2024
+Iteration 1 (1 operation) result: 18.16 ops/m
+
+Valid run!
+Score on startup.compiler.compiler: 18.16 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.compiler.sunflow
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:38 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:42 CST 2024
+Iteration 1 (1 operation) result: 16.94 ops/m
+
+Valid run!
+Score on startup.compiler.sunflow: 16.94 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.compress
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:42 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:43 CST 2024
+Iteration 1 (1 operation) result: 51.28 ops/m
+
+Valid run!
+Score on startup.compress: 51.28 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.crypto.aes
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:43 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:45 CST 2024
+Iteration 1 (1 operation) result: 22.40 ops/m
+
+Valid run!
+Score on startup.crypto.aes: 22.40 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.crypto.rsa
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:45 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:46 CST 2024
+Iteration 1 (1 operation) result: 114.94 ops/m
+
+Valid run!
+Score on startup.crypto.rsa: 114.94 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.crypto.signverify
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:46 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:47 CST 2024
+Iteration 1 (1 operation) result: 72.55 ops/m
+
+Valid run!
+Score on startup.crypto.signverify: 72.55 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.mpegaudio
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:47 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:49 CST 2024
+Iteration 1 (1 operation) result: 27.41 ops/m
+
+Valid run!
+Score on startup.mpegaudio: 27.41 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.scimark.fft
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:49 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:50 CST 2024
+Iteration 1 (1 operation) result: 84.27 ops/m
+
+Valid run!
+Score on startup.scimark.fft: 84.27 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.scimark.lu
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:50 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:50 CST 2024
+Iteration 1 (1 operation) result: 127.39 ops/m
+
+Valid run!
+Score on startup.scimark.lu: 127.39 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.scimark.monte_carlo
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:50 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:52 CST 2024
+Iteration 1 (1 operation) result: 38.24 ops/m
+
+Valid run!
+Score on startup.scimark.monte_carlo: 38.24 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.scimark.sor
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:52 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:53 CST 2024
+Iteration 1 (1 operation) result: 38.29 ops/m
+
+Valid run!
+Score on startup.scimark.sor: 38.29 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.scimark.sparse
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:53 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:55 CST 2024
+Iteration 1 (1 operation) result: 50.85 ops/m
+
+Valid run!
+Score on startup.scimark.sparse: 50.85 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.serial
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:55 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:57 CST 2024
+Iteration 1 (1 operation) result: 27.15 ops/m
+
+Valid run!
+Score on startup.serial: 27.15 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.sunflow
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:57 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:04:59 CST 2024
+Iteration 1 (1 operation) result: 24.52 ops/m
+
+Valid run!
+Score on startup.sunflow: 24.52 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.xml.transform
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:04:59 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:05:26 CST 2024
+Iteration 1 (1 operation) result: 2.22 ops/m
+
+Valid run!
+Score on startup.xml.transform: 2.22 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   startup.xml.validation
+  Run mode:    static run
+  Test type:   single
+  Threads:     1
+  Iterations:  1
+  Run length:  1 operation
+
+Iteration 1 (1 operation) begins: Fri Jul 05 22:05:26 CST 2024
+Iteration 1 (1 operation) ends:   Fri Jul 05 22:05:28 CST 2024
+Iteration 1 (1 operation) result: 42.77 ops/m
+
+Valid run!
+Score on startup.xml.validation: 42.77 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   compiler.compiler
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 22:05:30 CST 2024
+Warmup (120s) ends:   Fri Jul 05 22:07:31 CST 2024
+Warmup (120s) result: 190.19 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 22:07:31 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 22:11:31 CST 2024
+Iteration 1 (240s) result: 216.93 ops/m
+
+Valid run!
+Score on compiler.compiler: 216.93 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   compiler.sunflow
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 22:11:32 CST 2024
+Warmup (120s) ends:   Fri Jul 05 22:13:34 CST 2024
+Warmup (120s) result: 79.79 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 22:13:34 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 22:17:36 CST 2024
+Iteration 1 (240s) result: 80.78 ops/m
+
+Valid run!
+Score on compiler.sunflow: 80.78 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   compress
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 22:17:36 CST 2024
+Warmup (120s) ends:   Fri Jul 05 22:19:38 CST 2024
+Warmup (120s) result: 116.08 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 22:19:38 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 22:23:40 CST 2024
+Iteration 1 (240s) result: 115.54 ops/m
+
+Valid run!
+Score on compress: 115.54 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   crypto.aes
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 22:23:40 CST 2024
+Warmup (120s) ends:   Fri Jul 05 22:25:42 CST 2024
+Warmup (120s) result: 47.31 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 22:25:42 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 22:29:45 CST 2024
+Iteration 1 (240s) result: 46.88 ops/m
+
+Valid run!
+Score on crypto.aes: 46.88 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   crypto.rsa
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 22:29:45 CST 2024
+Warmup (120s) ends:   Fri Jul 05 22:31:45 CST 2024
+Warmup (120s) result: 828.79 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 22:31:45 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 22:35:45 CST 2024
+Iteration 1 (240s) result: 853.60 ops/m
+
+Valid run!
+Score on crypto.rsa: 853.60 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   crypto.signverify
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 22:35:45 CST 2024
+Warmup (120s) ends:   Fri Jul 05 22:37:46 CST 2024
+Warmup (120s) result: 270.67 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 22:37:46 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 22:41:46 CST 2024
+Iteration 1 (240s) result: 243.39 ops/m
+
+Valid run!
+Score on crypto.signverify: 243.39 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   derby
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 22:42:10 CST 2024
+Warmup (120s) ends:   Fri Jul 05 22:44:11 CST 2024
+Warmup (120s) result: 200.57 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 22:44:11 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 22:48:11 CST 2024
+Iteration 1 (240s) result: 215.25 ops/m
+
+Valid run!
+Score on derby: 215.25 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   mpegaudio
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 22:48:11 CST 2024
+Warmup (120s) ends:   Fri Jul 05 22:50:13 CST 2024
+Warmup (120s) result: 73.38 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 22:50:13 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 22:54:15 CST 2024
+Iteration 1 (240s) result: 74.87 ops/m
+
+Valid run!
+Score on mpegaudio: 74.87 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   scimark.fft.large
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 22:54:15 CST 2024
+Warmup (120s) ends:   Fri Jul 05 22:56:18 CST 2024
+Warmup (120s) result: 70.76 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 22:56:18 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 23:00:21 CST 2024
+Iteration 1 (240s) result: 69.30 ops/m
+
+Valid run!
+Score on scimark.fft.large: 69.30 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   scimark.lu.large
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 23:00:21 CST 2024
+Warmup (120s) ends:   Fri Jul 05 23:02:27 CST 2024
+Warmup (120s) result: 24.32 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 23:02:27 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 23:06:35 CST 2024
+Iteration 1 (240s) result: 25.14 ops/m
+
+Valid run!
+Score on scimark.lu.large: 25.14 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   scimark.sor.large
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 23:06:35 CST 2024
+Warmup (120s) ends:   Fri Jul 05 23:08:44 CST 2024
+Warmup (120s) result: 18.34 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 23:08:44 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 23:12:55 CST 2024
+Iteration 1 (240s) result: 18.35 ops/m
+
+Valid run!
+Score on scimark.sor.large: 18.35 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   scimark.sparse.large
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 23:12:55 CST 2024
+Warmup (120s) ends:   Fri Jul 05 23:15:01 CST 2024
+Warmup (120s) result: 35.26 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 23:15:01 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 23:19:04 CST 2024
+Iteration 1 (240s) result: 38.22 ops/m
+
+Valid run!
+Score on scimark.sparse.large: 38.22 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   scimark.fft.small
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 23:19:04 CST 2024
+Warmup (120s) ends:   Fri Jul 05 23:21:04 CST 2024
+Warmup (120s) result: 263.89 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 23:21:04 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 23:25:05 CST 2024
+Iteration 1 (240s) result: 269.72 ops/m
+
+Valid run!
+Score on scimark.fft.small: 269.72 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   scimark.lu.small
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 23:25:05 CST 2024
+Warmup (120s) ends:   Fri Jul 05 23:27:05 CST 2024
+Warmup (120s) result: 525.62 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 23:27:05 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 23:31:06 CST 2024
+Iteration 1 (240s) result: 515.18 ops/m
+
+Valid run!
+Score on scimark.lu.small: 515.18 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   scimark.sor.small
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 23:31:06 CST 2024
+Warmup (120s) ends:   Fri Jul 05 23:33:08 CST 2024
+Warmup (120s) result: 82.52 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 23:33:08 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 23:37:10 CST 2024
+Iteration 1 (240s) result: 82.51 ops/m
+
+Valid run!
+Score on scimark.sor.small: 82.51 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   scimark.sparse.small
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 23:37:10 CST 2024
+Warmup (120s) ends:   Fri Jul 05 23:39:11 CST 2024
+Warmup (120s) result: 139.89 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 23:39:11 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 23:43:12 CST 2024
+Iteration 1 (240s) result: 134.62 ops/m
+
+Valid run!
+Score on scimark.sparse.small: 134.62 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   scimark.monte_carlo
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 23:43:12 CST 2024
+Warmup (120s) ends:   Fri Jul 05 23:45:13 CST 2024
+Warmup (120s) result: 131.32 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 23:45:13 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 23:49:14 CST 2024
+Iteration 1 (240s) result: 136.86 ops/m
+
+Valid run!
+Score on scimark.monte_carlo: 136.86 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   serial
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 23:49:14 CST 2024
+Warmup (120s) ends:   Fri Jul 05 23:51:16 CST 2024
+Warmup (120s) result: 76.76 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 23:51:16 CST 2024
+Iteration 1 (240s) ends:   Fri Jul 05 23:55:18 CST 2024
+Iteration 1 (240s) result: 83.40 ops/m
+
+Valid run!
+Score on serial: 83.40 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   sunflow
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     1
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Fri Jul 05 23:55:18 CST 2024
+Warmup (120s) ends:   Fri Jul 05 23:57:18 CST 2024
+Warmup (120s) result: 45.42 ops/m
+
+Iteration 1 (240s) begins: Fri Jul 05 23:57:18 CST 2024
+Iteration 1 (240s) ends:   Sat Jul 06 00:01:19 CST 2024
+Iteration 1 (240s) result: 45.78 ops/m
+
+Valid run!
+Score on sunflow: 45.78 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   xml.transform
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Sat Jul 06 00:01:57 CST 2024
+Warmup (120s) ends:   Sat Jul 06 00:03:58 CST 2024
+Warmup (120s) result: 184.20 ops/m
+
+Iteration 1 (240s) begins: Sat Jul 06 00:03:58 CST 2024
+Iteration 1 (240s) ends:   Sat Jul 06 00:07:59 CST 2024
+Iteration 1 (240s) result: 199.43 ops/m
+
+Valid run!
+Score on xml.transform: 199.43 ops/m
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   xml.validation
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Sat Jul 06 00:07:59 CST 2024
+Warmup (120s) ends:   Sat Jul 06 00:09:59 CST 2024
+Warmup (120s) result: 407.86 ops/m
+
+Iteration 1 (240s) begins: Sat Jul 06 00:09:59 CST 2024
+Iteration 1 (240s) ends:   Sat Jul 06 00:14:00 CST 2024
+Iteration 1 (240s) result: 439.05 ops/m
+
+Valid run!
+Score on xml.validation: 439.05 ops/m
+
+Results are stored in: 
+/root/spec/build/release/SPECjvm2008/results/SPECjvm2008.036/SPECjvm2008.036.raw
+Generating reports in:
+/root/spec/build/release/SPECjvm2008/results/SPECjvm2008.036
+
+Noncompliant composite result: 106.13 ops/m

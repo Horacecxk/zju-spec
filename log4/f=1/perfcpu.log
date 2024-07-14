@@ -1,0 +1,120 @@
+Linux 5.15.0-106-generic (iZf8zetnft7hz64q6zlvzzZ) 	07/14/2024 	_x86_64_	(2 CPU)
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:22:25 PM     0     32305    0.60    3.00    0.00    4.00    3.60     1     43.20      0.00   35616   12188   0.33     20.80     42.20  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:22:30 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:22:35 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:22:40 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:22:45 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:22:50 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:22:55 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:23:00 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:23:05 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:23:10 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:23:15 PM     0     32305    0.00    0.20    0.00    0.00    0.20     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:23:20 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:23:25 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:23:30 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:23:35 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:23:40 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:23:45 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:23:50 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:23:55 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:24:00 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:24:05 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:24:10 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:24:15 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:24:20 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:24:25 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:24:30 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:24:35 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:24:40 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:24:45 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:24:50 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:24:55 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:25:00 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:25:05 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:25:10 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:25:15 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:25:20 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:25:25 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:25:30 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+06:25:35 PM     0     32305    0.00    0.00    0.00    0.00    0.00     1      0.00      0.00   35616   12188   0.33      0.00      0.00  perf
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command

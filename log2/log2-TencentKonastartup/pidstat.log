@@ -1,0 +1,175 @@
+Linux 5.15.0-106-generic (iZf8zetnft7hz64q6zlvzzZ) 	07/07/2024 	_x86_64_	(2 CPU)
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:41:05 PM     0     81603    5.80    1.00    0.00    0.00    6.80     0   1693.80      1.60 5693992   52196   1.43      0.20      0.40  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:41:10 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      8.40      0.00 5693992   52200   1.43      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:41:15 PM     0     81603    0.20    0.20    0.00    0.00    0.40     0      8.60      0.00 5693992   52204   1.43      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:41:20 PM     0     81603    0.40    0.00    0.00    0.00    0.40     0     25.80      0.60 5693992   52228   1.43      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:41:25 PM     0     81603    0.00    0.20    0.00    0.00    0.20     0      8.20      0.00 5693992   52232   1.43      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:41:30 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      7.80      0.20 5693992   52236   1.43      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:41:35 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0     11.20      0.00 5693992   52240   1.43      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:41:40 PM     0     81603    0.20    0.20    0.00    0.00    0.40     0      8.40      0.00 5693992   52260   1.43      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:41:45 PM     0     81603    0.20    0.20    0.00    0.00    0.40     0     43.00      0.00 5693992   52540   1.44      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:41:50 PM     0     81603    0.40    0.00    0.00    0.00    0.40     0     27.00      0.60 5693992   52764   1.45      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:41:55 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      7.20      0.00 5693992   52764   1.45      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:42:00 PM     0     81603    0.40    0.00    0.00    0.00    0.40     0     15.00      0.00 5693992   52776   1.45      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:42:05 PM     0     81603    0.40    0.20    0.00    0.00    0.60     0    205.60      0.20 5693992   55528   1.52      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:42:10 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0     33.60      0.00 5693992   55592   1.53      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:42:15 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0     14.60      0.00 5693992   55596   1.53      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:42:20 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0     32.20      0.00 5693992   55600   1.53      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:42:25 PM     0     81603    0.40    0.20    0.00    0.00    0.60     0     87.60      0.80 5693992   56016   1.54      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:42:30 PM     0     81603    0.80    0.20    0.00    0.00    1.00     0    222.40      0.00 5693992   60124   1.65      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:42:35 PM     0     81603    0.80    0.00    0.00    0.00    0.80     0     37.20      0.00 5693992   60360   1.66      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:42:40 PM     0     81603    0.40    0.00    0.00    0.00    0.40     0    109.60      0.00 5693992   61852   1.70      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:42:45 PM     0     81603    0.20    0.20    0.00    0.00    0.40     0     27.80      0.00 5693992   61856   1.70      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:42:50 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0     17.60      0.00 5693992   58104   1.59      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:42:55 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0     20.40      0.60 5693992   58108   1.59      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:43:00 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0     10.60      0.20 5693992   58108   1.59      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:43:05 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0     16.40      0.00 5693992   58112   1.59      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:43:10 PM     0     81603    0.00    0.20    0.00    0.00    0.20     0     14.60      0.00 5693992   58112   1.59      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:43:15 PM     0     81603    0.00    0.20    0.00    0.00    0.20     0     12.60      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:43:20 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:43:25 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.20 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:43:30 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:43:35 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:43:40 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:43:45 PM     0     81603    0.20    0.20    0.00    0.00    0.40     0      6.80      0.20 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:43:50 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:43:55 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.20 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:44:00 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:44:05 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:44:10 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:44:15 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      6.80      0.40 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:44:20 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:44:25 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.20 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:44:30 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:44:35 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:44:40 PM     0     81603    0.00    0.20    0.00    0.00    0.20     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:44:45 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0      8.80      0.40 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:44:50 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:44:55 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.20 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:45:00 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:45:05 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:45:10 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0      0.00      0.00 5693992   58184   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:45:15 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      8.20      0.40 5693992   58212   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:45:20 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0      0.00      0.00 5693992   58212   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:45:25 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58212   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:45:30 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.20 5693992   58212   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:45:35 PM     0     81603    0.00    0.00    0.00    0.00    0.00     0      0.00      0.00 5693992   58212   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:45:40 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0      0.00      0.00 5693992   58212   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:45:45 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0     33.00      0.60 5693992   58372   1.60      0.00      0.00  java
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s  Command
+03:45:50 PM     0     81603    0.20    0.00    0.00    0.00    0.20     0     20.00      0.00 5693992   58472   1.60      0.00      0.00  java

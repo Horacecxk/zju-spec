@@ -1,0 +1,20 @@
+OpenJDK 64-Bit Server VM (25.412-b01) for linux-amd64 JRE (1.8.0_412-b01), built on May 30 2024 03:03:44 by "root" with gcc 7.5.0
+Memory: 4k page, physical 3644708k(1133216k free), swap 4194300k(4194300k free)
+CommandLine flags: -XX:+DumpAppCDSWithKlassId -XX:+EagerAppCDS -XX:InitialHeapSize=58315328 -XX:MaxHeapSize=3221225472 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+RequireSharedSpaces -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseParallelGC -XX:+UseSharedSpaces 
+2024-07-07T15:55:55.051+0800: 26.265: [GC (Allocation Failure) [PSYoungGen: 14848K->1200K(16896K)] 14848K->1208K(55296K), 0.0024648 secs] [Times: user=0.00 sys=0.01, real=0.00 secs] 
+2024-07-07T16:00:22.387+0800: 293.601: [GC (Allocation Failure) [PSYoungGen: 16048K->1715K(16896K)] 16056K->1731K(55296K), 0.0048600 secs] [Times: user=0.00 sys=0.00, real=0.00 secs] 
+2024-07-07T16:00:22.723+0800: 293.937: [GC (Allocation Failure) [PSYoungGen: 16563K->2032K(16896K)] 16579K->6626K(55296K), 0.0118884 secs] [Times: user=0.02 sys=0.00, real=0.01 secs] 
+2024-07-07T16:00:22.824+0800: 294.038: [GC (Allocation Failure) [PSYoungGen: 16880K->2016K(31744K)] 21474K->10981K(70144K), 0.0061436 secs] [Times: user=0.01 sys=0.00, real=0.00 secs] 
+2024-07-07T16:00:23.001+0800: 294.215: [GC (Allocation Failure) [PSYoungGen: 31712K->2032K(31744K)] 40677K->13182K(70144K), 0.0079900 secs] [Times: user=0.01 sys=0.00, real=0.01 secs] 
+2024-07-07T16:00:23.126+0800: 294.339: [GC (Allocation Failure) [PSYoungGen: 31728K->6362K(67072K)] 42878K->17513K(105472K), 0.0083352 secs] [Times: user=0.00 sys=0.00, real=0.00 secs] 
+2024-07-07T16:00:23.319+0800: 294.533: [GC (Allocation Failure) [PSYoungGen: 65242K->5639K(67584K)] 76393K->17585K(105984K), 0.0054103 secs] [Times: user=0.01 sys=0.00, real=0.01 secs] 
+2024-07-07T16:00:23.503+0800: 294.716: [GC (Allocation Failure) [PSYoungGen: 64519K->4506K(125440K)] 76465K->17606K(163840K), 0.0045967 secs] [Times: user=0.01 sys=0.01, real=0.01 secs] 
+Heap
+ PSYoungGen      total 125440K, used 51770K [0x00000007c0000000, 0x00000007c8300000, 0x0000000800000000)
+  eden space 117760K, 40% used [0x00000007c0000000,0x00000007c2e27e80,0x00000007c7300000)
+  from space 7680K, 58% used [0x00000007c7b80000,0x00000007c7fe6b20,0x00000007c8300000)
+  to   space 8192K, 0% used [0x00000007c7300000,0x00000007c7300000,0x00000007c7b00000)
+ ParOldGen       total 38400K, used 13099K [0x0000000740000000, 0x0000000742580000, 0x00000007c0000000)
+  object space 38400K, 34% used [0x0000000740000000,0x0000000740ccad50,0x0000000742580000)
+ Metaspace       used 1676K, capacity 4988K, committed 5120K, reserved 1056768K
+  class space    used 140K, capacity 506K, committed 512K, reserved 1048576K

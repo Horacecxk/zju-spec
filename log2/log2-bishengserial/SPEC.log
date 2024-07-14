@@ -1,0 +1,55 @@
+
+SPECjvm2008 Peak
+  Properties file:   none
+  Benchmarks:        serial
+
+  WARNING: Run will not be compliant.
+  Property specjvm.run.initial.check must be true for publication.
+  Property specjvm.miniter must be 1 for publication.
+  Not a compliant sequence of benchmarks for publication.
+  Property specjvm.run.checksum.validation must be true for publication.
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   serial
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  5
+  Run length:  240s
+
+Warmup (120s) begins: Sun Jul 07 14:56:21 CST 2024
+Warmup (120s) ends:   Sun Jul 07 14:58:22 CST 2024
+Warmup (120s) result: 120.72 ops/m
+
+Iteration 1 (240s) begins: Sun Jul 07 14:58:22 CST 2024
+Iteration 1 (240s) ends:   Sun Jul 07 15:02:23 CST 2024
+Iteration 1 (240s) result: 121.02 ops/m
+
+Iteration 2 (240s) begins: Sun Jul 07 15:02:23 CST 2024
+Iteration 2 (240s) ends:   Sun Jul 07 15:06:25 CST 2024
+Iteration 2 (240s) result: 122.52 ops/m
+
+Iteration 3 (240s) begins: Sun Jul 07 15:06:25 CST 2024
+Iteration 3 (240s) ends:   Sun Jul 07 15:10:27 CST 2024
+Iteration 3 (240s) result: 122.13 ops/m
+
+Iteration 4 (240s) begins: Sun Jul 07 15:10:27 CST 2024
+Iteration 4 (240s) ends:   Sun Jul 07 15:14:28 CST 2024
+Iteration 4 (240s) result: 130.88 ops/m
+
+Iteration 5 (240s) begins: Sun Jul 07 15:14:28 CST 2024
+Iteration 5 (240s) ends:   Sun Jul 07 15:18:29 CST 2024
+Iteration 5 (240s) result: 141.62 ops/m
+
+Valid run!
+Score on serial: 141.62 ops/m
+
+Results are stored in: 
+/root/spec/build/release/SPECjvm2008/results/SPECjvm2008.061/SPECjvm2008.061.raw
+Generating reports in:
+/root/spec/build/release/SPECjvm2008/results/SPECjvm2008.061
+
+Noncompliant composite result: 141.62 ops/m

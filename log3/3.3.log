@@ -1,0 +1,35 @@
+nohup: ignoring input
+
+SPECjvm2008 Peak
+  Properties file:   none
+  Benchmarks:        derby
+
+  WARNING: Run will not be compliant.
+  Property specjvm.run.initial.check must be true for publication.
+  Not a compliant sequence of benchmarks for publication.
+  Property specjvm.run.checksum.validation must be true for publication.
+  Property specjvm.iteration.time must be at least 240 seconds for publication.
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   derby
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Iterations:  1
+  Run length:  1s
+
+Iteration 1 (1s) begins: Thu Jul 11 18:22:30 CST 2024
+Iteration 1 (1s) ends:   Thu Jul 11 18:22:32 CST 2024
+Iteration 1 (1s) result: 66.26 ops/m
+
+Valid run!
+Score on derby: 66.26 ops/m
+
+Results are stored in: 
+/root/spec/build/release/SPECjvm2008/results/SPECjvm2008.126/SPECjvm2008.126.raw
+Generating reports in:
+/root/spec/build/release/SPECjvm2008/results/SPECjvm2008.126
+
+Noncompliant composite result: 66.26 ops/m

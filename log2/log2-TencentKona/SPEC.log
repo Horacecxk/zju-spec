@@ -1,0 +1,75 @@
+
+SPECjvm2008 Peak
+  Properties file:   none
+  Benchmarks:        derby
+
+  WARNING: Run will not be compliant.
+  Property specjvm.run.initial.check must be true for publication.
+  Property specjvm.miniter must be 1 for publication.
+  Not a compliant sequence of benchmarks for publication.
+  Property specjvm.run.checksum.validation must be true for publication.
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   derby
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  10
+  Run length:  240s
+
+Warmup (120s) begins: Thu Jul 11 21:22:07 CST 2024
+Warmup (120s) ends:   Thu Jul 11 21:24:07 CST 2024
+Warmup (120s) result: 168.71 ops/m
+
+Iteration 1 (240s) begins: Thu Jul 11 21:24:07 CST 2024
+Iteration 1 (240s) ends:   Thu Jul 11 21:28:08 CST 2024
+Iteration 1 (240s) result: 177.39 ops/m
+
+Iteration 2 (240s) begins: Thu Jul 11 21:28:08 CST 2024
+Iteration 2 (240s) ends:   Thu Jul 11 21:32:09 CST 2024
+Iteration 2 (240s) result: 183.70 ops/m
+
+Iteration 3 (240s) begins: Thu Jul 11 21:32:09 CST 2024
+Iteration 3 (240s) ends:   Thu Jul 11 21:36:10 CST 2024
+Iteration 3 (240s) result: 185.16 ops/m
+
+Iteration 4 (240s) begins: Thu Jul 11 21:36:10 CST 2024
+Iteration 4 (240s) ends:   Thu Jul 11 21:40:11 CST 2024
+Iteration 4 (240s) result: 174.61 ops/m
+
+Iteration 5 (240s) begins: Thu Jul 11 21:40:11 CST 2024
+Iteration 5 (240s) ends:   Thu Jul 11 21:44:12 CST 2024
+Iteration 5 (240s) result: 182.82 ops/m
+
+Iteration 6 (240s) begins: Thu Jul 11 21:44:12 CST 2024
+Iteration 6 (240s) ends:   Thu Jul 11 21:48:12 CST 2024
+Iteration 6 (240s) result: 185.16 ops/m
+
+Iteration 7 (240s) begins: Thu Jul 11 21:48:12 CST 2024
+Iteration 7 (240s) ends:   Thu Jul 11 21:52:13 CST 2024
+Iteration 7 (240s) result: 185.92 ops/m
+
+Iteration 8 (240s) begins: Thu Jul 11 21:52:13 CST 2024
+Iteration 8 (240s) ends:   Thu Jul 11 21:56:14 CST 2024
+Iteration 8 (240s) result: 176.74 ops/m
+
+Iteration 9 (240s) begins: Thu Jul 11 21:56:14 CST 2024
+Iteration 9 (240s) ends:   Thu Jul 11 22:00:15 CST 2024
+Iteration 9 (240s) result: 171.78 ops/m
+
+Iteration 10 (240s) begins: Thu Jul 11 22:00:15 CST 2024
+Iteration 10 (240s) ends:   Thu Jul 11 22:04:16 CST 2024
+Iteration 10 (240s) result: 183.84 ops/m
+
+Valid run!
+Score on derby: 185.92 ops/m
+
+Results are stored in: 
+/root/spec/build/release/SPECjvm2008/results/SPECjvm2008.149/SPECjvm2008.149.raw
+Generating reports in:
+/root/spec/build/release/SPECjvm2008/results/SPECjvm2008.149
+
+Noncompliant composite result: 185.92 ops/m
