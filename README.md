@@ -1,6 +1,6 @@
 ## 1. run1.sh
 
-在 Assignment1 中，使用 OpenJDK 8 进行标准运行，设置 `CompileThreshold=20000`，设置最大堆内存为 350M 和 380M，并且没有热身时间运行。配置好 OpenJDK 8 所在目录后，在脚本所在目录打开控制台，通过 `nohup bash run.sh > run1.log &` 命令即可运行。结果保存在脚本所在目录，结果包括：
+在 Assignment1 中，使用 OpenJDK 8 进行标准运行，设置 `CompileThreshold=20000`，设置最大堆内存为 350M 和 380M，并且没有热身时间运行。配置好 OpenJDK 8 所在目录后，在脚本所在目录打开控制台，通过 `nohup bash run1.sh > run1.log &` 命令即可运行。结果保存在脚本所在目录，结果包括：
 
 - JVM 的 GC 日志
 - Java 运行基准测试的输出结果

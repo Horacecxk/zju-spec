@@ -1,0 +1,56 @@
+nohup: ignoring input
+2914
+PID/TID switch overriding SYSTEM
+
+SPECjvm2008 Peak
+  Properties file:   none
+  Benchmarks:        serial
+
+  WARNING: Run will not be compliant.
+  Property specjvm.run.initial.check must be true for publication.
+  Not a compliant sequence of benchmarks for publication.
+  Property specjvm.run.checksum.validation must be true for publication.
+
+
+--- --- --- --- --- --- --- --- ---
+
+  Benchmark:   serial
+  Run mode:    timed run
+  Test type:   multi
+  Threads:     2
+  Warmup:      120s
+  Iterations:  1
+  Run length:  240s
+
+Warmup (120s) begins: Mon Jul 15 14:44:44 CST 2024
+Warmup (120s) ends:   Mon Jul 15 14:46:45 CST 2024
+Warmup (120s) result: 86.54 ops/m
+
+Iteration 1 (240s) begins: Mon Jul 15 14:46:45 CST 2024
+Iteration 1 (240s) ends:   Mon Jul 15 14:50:48 CST 2024
+Iteration 1 (240s) result: 87.31 ops/m
+
+Valid run!
+Score on serial: 87.31 ops/m
+
+Results are stored in: 
+/root/spec/build/release/SPECjvm2008/results/SPECjvm2008.256/SPECjvm2008.256.raw
+Generating reports in:
+/root/spec/build/release/SPECjvm2008/results/SPECjvm2008.256
+
+Noncompliant composite result: 87.31 ops/m
+
+ Performance counter stats for process id '2914':
+
+        701,205.94 msec task-clock                #    1.919 CPUs utilized          
+           473,005      context-switches          #  674.559 /sec                   
+             6,873      cpu-migrations            #    9.802 /sec                   
+           116,293      page-faults               #  165.847 /sec                   
+   <not supported>      cycles                                                      
+   <not supported>      instructions                                                
+   <not supported>      branches                                                    
+   <not supported>      branch-misses                                               
+
+     365.323467820 seconds time elapsed
+
+Java application exit status: 0

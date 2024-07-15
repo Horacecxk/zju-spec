@@ -41,7 +41,7 @@
 
 
 
-# nohup bash run.sh >run1.log &
+# nohup bash run1.sh >run1.log &
 
 
 JaVa=/usr/lib/jvm/java-8-openjdk-amd64
@@ -63,7 +63,7 @@ $JaVa -version
 # -XX:+UseG1GC
 
 ###########################################  正常运行
-$JaVa -Xmx3.5g  -XX:+PrintGCDetails -XX:+PrintGCDateStamps -Xloggc:log1/log/gc.log -XX:CompileThreshold=20000 -jar SPECjvm2008.jar  -ikv -ict --coe > log1/log/SPEC.log &
+$JaVa -Xmx3g  -XX:+PrintGCDetails -XX:+PrintGCDateStamps -Xloggc:log1/log/gc.log -XX:CompileThreshold=20000 -jar SPECjvm2008.jar  -ikv -ict -coe > log1/log/SPEC.log &
 JAVA_PID=$!
 pidstat -r -u -h -w -p $JAVA_PID 5 > pidstat.log &
 PIDSTAT_PID=$!
